@@ -1,8 +1,8 @@
 module.exports = [
     {
         itemName: "the name of the transaction",
-        amount: 0,
-        date:"1/12/23",
+        amount: 11.11,
+        date:"2023/1/1",
         from:"bank",
         category:"income"
         // item_name- string - the name of the transaction (ie: income, savings, cat food, etc.)
@@ -16,15 +16,15 @@ module.exports = [
     },
     {
         itemName: "netflix",
-        amount: 15,
-        date:"1/12/23",
+        amount: 15.45,
+        date:"2023/01/23",
         from:"netflix",
         category:"bill"
     },
     {
         itemName: "uber",
-        amount: 25,
-        date:"1/10/23",
+        amount: 25.96,
+        date:"2023/10/25",
         from:"uber",
         category:"bill"
     },

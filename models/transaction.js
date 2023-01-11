@@ -19,13 +19,13 @@ module.exports = [
         amount: 15.45,
         date:"2023/01/23",
         from:"netflix",
-        category:"bill"
+        category:"charge"
     },
     {
         itemName: "uber",
         amount: 25.96,
         date:"2023/10/25",
         from:"uber",
-        category:"bill"
+        category:"charge"
     },
 ]
